@@ -1,0 +1,14 @@
+{
+"companyName": "Escola ",
+"productName": "TeleTrabalho-EVT",
+"dataUrl": "teletrabalho-webgl(1).data.unityweb",
+"asmCodeUrl": "teletrabalho-webgl(1).asm.code.unityweb",
+"asmMemoryUrl": "teletrabalho-webgl(1).asm.memory.unityweb",
+"asmFrameworkUrl": "teletrabalho-webgl(1).asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "teletrabalho-webgl(1).jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
